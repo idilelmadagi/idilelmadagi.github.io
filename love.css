@@ -11,4 +11,13 @@ body {
     left:50%;
     transform: translate(-50%,-50%);
 }
+.div2 {
+    padding-top:20px;
+
+    font-size:25px;
+    font-family:'Monotype Corsiva';
+    text-align: center;
+    margin: auto;
+    display: block;
+}
 
