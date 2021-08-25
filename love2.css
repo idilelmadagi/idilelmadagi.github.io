@@ -3,7 +3,7 @@ body {
 }
 
 .div1 img {
-    margin: auto;
+  padding-top:60px;
     display: block;
     position: absolute;
     top: 50%;
