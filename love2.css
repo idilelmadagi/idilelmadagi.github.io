@@ -1,0 +1,21 @@
+body {
+    background-color: lightpink;
+}
+
+.div1 img {
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.div2 {
+    padding-top: 20px;
+    font-size:40px;
+    font-family:'Freestyle Script';
+    text-align: center;
+    margin: auto;
+    display: block;
+}
